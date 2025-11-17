@@ -1,6 +1,6 @@
 # Simulador de Sistema de Archivos con Análisis Forense
 
-Simulador educativo de un sistema de archivos con conceptos de análisis forense digital. Desarrollado en Java con interfaz Swing.
+Simulador de un sistema de archivos con conceptos de análisis forense digital. Desarrollado en Java con interfaz Swing.
 
 ## Cómo Ejecutar
 
